@@ -1,0 +1,38 @@
+[
+    {
+        "task": "going outing with friends",
+        "category": "Personal",
+        "due": "2025-04-11",
+        "completed": true
+    },
+    {
+        "task": "taking grocerces from market",
+        "category": "Personal",
+        "due": null,
+        "completed": true
+    },
+    {
+        "task": "chill with friends",
+        "category": "General",
+        "due": "2025-04-11",
+        "completed": true
+    },
+    {
+        "task": "chill with MF",
+        "category": "Personal",
+        "due": "2025-04-11",
+        "completed": true
+    },
+    {
+        "task": "outing with friends",
+        "due": null,
+        "category": "Personal",
+        "completed": false
+    },
+    {
+        "task": "chill with friends",
+        "due": null,
+        "category": "Personal",
+        "completed": false
+    }
+]
